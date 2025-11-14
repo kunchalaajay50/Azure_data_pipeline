@@ -21,7 +21,7 @@ This end-to-end project demonstrates a complete **Modern Data Engineering Archit
 
 **3️⃣ SQL Layer – Azure Synapse Analytics**  
 - Created **views** on Silver data.  
-- Created **external tables** in serverless SQL pool using:  
+- Created **external tables** and pushed to Gold Layer using serverless SQL pool with:  
   - OPENROWSET  
   - External Data Sources  
   - Parquet File Formats  
